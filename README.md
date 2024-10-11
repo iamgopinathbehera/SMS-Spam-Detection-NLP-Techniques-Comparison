@@ -34,11 +34,8 @@ This repository compares various Natural Language Processing (NLP) techniques fo
    ```bash
    git clone https://github.com/iamgopinathbehera/SMS-Spam-Detection-NLP-Techniques-Comparison.git
    ```
-2. Install the required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-3. Run the Jupyter Notebooks to explore the different NLP techniques.
+
+2. Run the Jupyter Notebooks to explore the different NLP techniques.
 
 ## 📊 Results
 
